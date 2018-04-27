@@ -5,7 +5,7 @@ services:
    ports:
     - "8085:8080"
  frontend:
-   image: guvanch/lab234-lab11-frontend:latest
+   image: guvanch/se234-lab11-frontend:latest
    ports:
     - "8083:80"
     
